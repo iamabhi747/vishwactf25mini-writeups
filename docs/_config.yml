@@ -22,6 +22,7 @@ aux_links:
 # Sidebar navigation
 nav:
   - title: "VishwaCTF 25 Mini"
+    url: /
     children:
       - title: "Cryptography"
         url: /cryptography/
