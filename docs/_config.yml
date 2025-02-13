@@ -1,7 +1,7 @@
 # Site settings
-title: "URF: Unified Report Format Specification"
-description: Technical specification for URF file format
-baseurl: "/VishwaCTF-25-Mini"
+title: "VishwaCTF 25 Mini Writeups"
+description: CTF Writeups @deathwing
+baseurl: "/vishwactf25mini-writeups"
 url: ""
 
 # Theme settings
