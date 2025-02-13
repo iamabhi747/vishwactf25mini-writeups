@@ -19,11 +19,6 @@ aux_links:
   "View on GitHub":
     - "//github.com/iamabhi747/vishwactf25mini-writeups"
 
-collections:
-  cryptography:
-    permalink: "/:collection/:path/"
-    output: true
-
 # Sidebar navigation
 nav:
   - title: "VishwaCTF 25 Mini"
