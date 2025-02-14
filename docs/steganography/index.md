@@ -1,4 +1,4 @@
 #### Steganography
 - **Hexcode**
-- [**Lost Evidence**](./lostevidence/) ✅
+- [**Lost Evidence**](./lostevidence) ✅
 - **Nemoverse**

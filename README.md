@@ -8,22 +8,22 @@ Official challenges files are available [here](https://github.com/CyberCell-Viit
 visit deployment [here](https://iamabhi747.github.io/VishwaCTF-25-Mini/)
 
 #### Cryptography
-- [**18th Century**](docs/cryptography/18thcentury) ✅
+- [**18th Century**](docs/cryptography/18thcentury.md) ✅
 - **Lost Code of the Past**
-- [**Timestuck**](docs/cryptography/timestuck) ✅
+- [**Timestuck**](docs/cryptography/timestuck.md) ✅
 
 #### Digital Forensics
 - **Data Trail**
-- [**Dateslip Logs**](docs/forensics/datesliplogs) ✅
-- [**Encrypted Canvas**](docs/forensics/encryptedcanvas) ✅
+- [**Dateslip Logs**](docs/forensics/datesliplogs.md) ✅
+- [**Encrypted Canvas**](docs/forensics/encryptedcanvas.md) ✅
 - **Spyvault**
 - **Zip Continuity**
 
 #### Miscellaneous
-- [**Architect Enigma**](docs/miscellaneous/architectenigma) ✅
-- [**Compression**](docs/miscellaneous/compression) ✅
-- [**Welcome**](docs/miscellaneous/welcome) ✅
-- [**Whispering Wings**](docs/miscellaneous/whisperingwings) ✅
+- [**Architect Enigma**](docs/miscellaneous/architectenigma.md) ✅
+- [**Compression**](docs/miscellaneous/compression.md) ✅
+- [**Welcome**](docs/miscellaneous/welcome.md) ✅
+- [**Whispering Wings**](docs/miscellaneous/whisperingwings.md) ✅
 
 #### OSINT
 - **Federation Timeframe Hunt**
@@ -31,15 +31,15 @@ visit deployment [here](https://iamabhi747.github.io/VishwaCTF-25-Mini/)
 - **Travel Confusion**
 
 #### Reverse Engineering
-- [**Crack Me**](docs/re/crackme) ✅
-- [**FIGHT FIGHT FIGHT**](docs/re/fightfightfight) ✅
-- [**Faulpelz**](docs/re/faulpelz) ✅
+- [**Crack Me**](docs/re/crackme.md) ✅
+- [**FIGHT FIGHT FIGHT**](docs/re/fightfightfight.md) ✅
+- [**Faulpelz**](docs/re/faulpelz.md) ✅
 
 #### Steganography
 - **Hexcode**
-- [**Lost Evidence**](docs/steganography/lostevidence) ✅
+- [**Lost Evidence**](docs/steganography/lostevidence.md) ✅
 - **Nemoverse**
 
 #### Web Exploitation
 - **Phantom Presence**
-- [**pay your own loan**](docs/web/payyourownloan) ✅
+- [**pay your own loan**](docs/web/payyourownloan.md) ✅
