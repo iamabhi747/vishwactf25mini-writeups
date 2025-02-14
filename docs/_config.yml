@@ -23,51 +23,77 @@ aux_links:
 nav:
   - title: "VishwaCTF 25 Mini"
     url: /
+    has_children: true
     children:
       - title: "Cryptography"
         url: /cryptography/
+        parent: "VishwaCTF 25 Mini"
+        has_children: true
         children:
           - title: "18th Century"
             url: /cryptography/18thcentury/
+            parent: "Cryptography"
           - title: "Timestuck"
             url: /cryptography/timestuck/
+            parent: "Cryptography"
       - title: "Digital Forensics"
         url: /forensics/
+        parent: "VishwaCTF 25 Mini"
+        has_children: true
         children:
           - title: "Dateslip Logs"
             url: /forensics/datesliplogs/
+            parent: "Digital Forensics"
           - title: "Encrypted Canvas"
             url: /forensics/encryptedcanvas/
+            parent: "Digital Forensics"
       - title: "Miscellaneous"
         url: /miscellaneous/
+        parent: "VishwaCTF 25 Mini"
+        has_children: true
         children:
           - title: "Architect Enigma"
             url: /miscellaneous/architectenigma/
+            parent: "Miscellaneous"
           - title: "Compression"
             url: /miscellaneous/compression/
+            parent: "Miscellaneous"
           - title: "Welcome"
             url: /miscellaneous/welcome/
+            parent: "Miscellaneous"
           - title: "Whispering Wings"
             url: /miscellaneous/whisperingwings/
+            parent: "Miscellaneous"
       - title: "Reverse Engineering"
         url: /re/
+        parent: "VishwaCTF 25 Mini"
+        has_children: true
         children:
           - title: "Crack Me"
             url: /re/crackme/
+            parent: "Reverse Engineering"
           - title: "FIGHT FIGHT FIGHT"
             url: /re/fightfightfight/
+            parent: "Reverse Engineering"
           - title: "Faulpelz"
             url: /re/faulpelz/
+            parent: "Reverse Engineering"
       - title: "Steganography"
         url: /steganography/
+        parent: "VishwaCTF 25 Mini"
+        has_children: true
         children:
           - title: "Lost Evidence"
             url: /steganography/lostevidence/
+            parent: "Steganography"
       - title: "Web Exploitation"
         url: /web/
+        parent: "VishwaCTF 25 Mini"
+        has_children: true
         children:
           - title: "pay your own loan"
             url: /web/payyourownloan/
+            parent: "Web Exploitation"
 
 # Footer content
 footer_content: "Copyright &copy; 2024. Distributed under the MIT license."

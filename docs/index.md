@@ -8,22 +8,22 @@ Official challenges files are available [here](https://github.com/CyberCell-Viit
 visit deployment [here](https://iamabhi747.github.io/VishwaCTF-25-Mini/)
 
 #### Cryptography
-- [**18th Century**]() ✅
+- [**18th Century**](./cryptography/18thcentury/) ✅
 - **Lost Code of the Past**
-- [**Timestuck**]() ✅
+- [**Timestuck**](./cryptography/timestuck/) ✅
 
 #### Digital Forensics
 - **Data Trail**
-- [**Dateslip Logs**]() ✅
-- [**Encrypted Canvas**]() ✅
+- [**Dateslip Logs**](./forensics/datesliplogs/) ✅
+- [**Encrypted Canvas**](./forensics/encryptedcanvas/) ✅
 - **Spyvault**
 - **Zip Continuity**
 
 #### Miscellaneous
-- [**Architect Enigma**]() ✅
-- [**Compression**]() ✅
-- [**Welcome**]() ✅
-- [**Whispering Wings**]() ✅
+- [**Architect Enigma**](./miscellaneous/architectenigma/) ✅
+- [**Compression**](./miscellaneous/compression/) ✅
+- [**Welcome**](./miscellaneous/welcome/) ✅
+- [**Whispering Wings**](./miscellaneous/whisperingwings/) ✅
 
 #### OSINT
 - **Federation Timeframe Hunt**
@@ -31,15 +31,15 @@ visit deployment [here](https://iamabhi747.github.io/VishwaCTF-25-Mini/)
 - **Travel Confusion**
 
 #### Reverse Engineering
-- [**Crack Me**]() ✅
-- [**FIGHT FIGHT FIGHT**]() ✅
-- [**Faulpelz**]() ✅
+- [**Crack Me**](./re/crackme/) ✅
+- [**FIGHT FIGHT FIGHT**](./re/fightfightfight/) ✅
+- [**Faulpelz**](./re/faulpelz/) ✅
 
 #### Steganography
 - **Hexcode**
-- [**Lost Evidence**]() ✅
+- [**Lost Evidence**](./steganography/lostevidence/) ✅
 - **Nemoverse**
 
 #### Web Exploitation
 - **Phantom Presence**
-- [**pay your own loan**]() ✅
+- [**pay your own loan**](./web/payyourownloan/) ✅
